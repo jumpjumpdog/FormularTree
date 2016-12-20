@@ -1,0 +1,3 @@
+﻿  Jonathan.cpp
+c:\users\asus\documents\visual studio 2015\projects\genealogymanagesystem\genealogymanagesystem\jonathan.cpp(83): warning C4715: “tranverse”: 不是所有的控件路径都返回值
+  GenealogyManageSystem.vcxproj -> C:\Users\asus\Documents\Visual Studio 2015\Projects\GenealogyManageSystem\Debug\GenealogyManageSystem.exe
